@@ -1,4 +1,7 @@
 # GERENCIAMENTO_DE_ALUNOS_E_CIDADES
+
+Output:
+
 ![output.png](https://github.com/taynarossauro/MySQL3/blob/main/output.png)
 
 Este projeto SQL cria e gerencia um banco de dados com informações sobre alunos e as cidades em que eles residem. O banco de dados possui duas tabelas principais: `Cidades` e `Alunos`, que estão relacionadas por uma chave estrangeira.
